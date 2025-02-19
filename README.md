@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jose, an <a href="https://www.linkedin.com/in/jose-estremera-23b994209/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jose, an <a href="https://www.linkedin.com/in/jose-estremera-23b994209/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
